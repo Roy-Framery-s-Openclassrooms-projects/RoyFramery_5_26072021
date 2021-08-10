@@ -1,4 +1,4 @@
- ![Légende](https://github.com/Roy-Framery-s-Openclassrooms-projects/RoyFramery_5_26072021/blob/main/images/CodinGameLogo.png)
+ ![Légende](https://github.com/Roy-Framery-s-Openclassrooms-projects/RoyFramery_5_26072021/blob/main/images/CodinGame_Logo.png)
 
 ---
 
